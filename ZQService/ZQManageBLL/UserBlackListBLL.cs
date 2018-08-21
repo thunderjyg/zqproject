@@ -9,6 +9,17 @@ namespace ZQManageBLL
 {
     public class UserBlackListBLL
     {
-        UserphotoMO userPhotoMo = new UserphotoMO("ZQBgAuthorityConn");
+        UserblacklistMO userBlackListMo = new UserblacklistMO("ZQBgAuthorityConn");
+
+        /// <summary>
+        /// 添加系统黑名单
+        /// </summary>
+        /// <param name="bleo"></param>
+        /// <returns></returns>
+        public int AddUserBlackList(UserblacklistEO ubeo)
+        {
+            return userBlackListMo.Add(ubeo);
+        }
+
     }
 }

@@ -9,6 +9,17 @@ namespace ZQManageBLL
 {
     public class SysblacklistBLL
     {
-        UserphotoMO userPhotoMo = new UserphotoMO("ZQBgAuthorityConn");
+        SysblacklistMO sysBlackListMo = new SysblacklistMO("ZQBgAuthorityConn");
+
+        /// <summary>
+        /// 添加系统黑名单
+        /// </summary>
+        /// <param name="bleo"></param>
+        /// <returns></returns>
+        public int AddSysBlackList(SysblacklistEO bleo)
+        {
+            return sysBlackListMo.Add(bleo);
+        }
+
     }
 }
