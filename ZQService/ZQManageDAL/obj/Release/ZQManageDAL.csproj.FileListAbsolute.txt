@@ -1,0 +1,6 @@
+F:\wnmp\zqservice\ZQService\ZQManageDAL\bin\Release\ZQManageDAL.dll
+F:\wnmp\zqservice\ZQService\ZQManageDAL\bin\Release\ZQManageDAL.pdb
+F:\wnmp\zqservice\ZQService\ZQManageDAL\bin\Release\TinyFx.dll
+F:\wnmp\zqservice\ZQService\ZQManageDAL\obj\Release\ZQManageDAL.csprojResolveAssemblyReference.cache
+F:\wnmp\zqservice\ZQService\ZQManageDAL\obj\Release\ZQManageDAL.dll
+F:\wnmp\zqservice\ZQService\ZQManageDAL\obj\Release\ZQManageDAL.pdb

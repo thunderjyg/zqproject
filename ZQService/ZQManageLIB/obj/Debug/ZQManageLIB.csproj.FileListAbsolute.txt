@@ -1,0 +1,5 @@
+F:\wnmp\zqservice\ZQService\ZQManageLIB\bin\Debug\ZQManageLIB.dll
+F:\wnmp\zqservice\ZQService\ZQManageLIB\bin\Debug\ZQManageLIB.pdb
+F:\wnmp\zqservice\ZQService\ZQManageLIB\obj\Debug\ZQManageLIB.dll
+F:\wnmp\zqservice\ZQService\ZQManageLIB\obj\Debug\ZQManageLIB.pdb
+F:\wnmp\zqservice\ZQService\ZQManageLIB\obj\Debug\ZQManageLIB.csprojResolveAssemblyReference.cache
